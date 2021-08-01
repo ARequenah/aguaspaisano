@@ -3,7 +3,7 @@
 # ¡Aguas! Paisano: Viaje Seguro
 
 ## Descripción del proyecto
-### Sitio web que aborda la inseguridad en el transporte público de la CDMX, específicamente de la delegación Iztapalapa, permitiendo a los usuarios dejar comentarios sobre las rutas más utilizadas e inseguras de esta área. A su vez, se comparte información para prevenir diversas situaciones y atracos, así como referentes a la actual situación sanitaria relacionado con el COVID.19
+### Sitio web que aborda la inseguridad en el transporte público de la CDMX, específicamente de la delegación Iztapalapa, permitiendo a los usuarios dejar comentarios sobre las rutas más utilizadas e inseguras de esta área. A su vez, se comparte información para prevenir diversas situaciones y atracos, así como referentes a la actual situación sanitaria relacionado con el COVID-19.
 
 ## Link al Tiktok
 ### Link al Tiktok
