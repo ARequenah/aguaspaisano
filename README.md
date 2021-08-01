@@ -14,4 +14,5 @@
 
 ### Tiempo sin disponibilidad a un año
 
+## ¿Qué te pareció el evento?
 ### El evento ha sido una gran experiencia que nos ha permitido desarrollar multiples habilidades relacionadas al manejo de la nube con Microsoft Azure y, de igual manera, ha sido una plataforma para poder interactuar con personas dentro de diferentes ramas del saber que nos han nutrido con su basto conocimiento dentro de sus respectivas áreas.
