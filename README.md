@@ -12,13 +12,13 @@
 ### [Diagrama de Azure](https://storageaccountpaisa977a.blob.core.windows.net/containersh/Diagrama%20de%20Azure.png?sp=r&st=2021-08-01T08:53:18Z&se=2021-08-01T16:53:18Z&spr=https&sv=2020-08-04&sr=b&sig=VoXtjie8JG0bflesNXpiyyT%2FIkw47jPZvip7n51Hqp0%3D)
 
 ## SLA Compuesto
-### SLA Compuesto
+### [SLA Compuesto](https://storageaccountpaisa977a.blob.core.windows.net/containersh/SLA.png?sp=r&st=2021-08-01T09:58:53Z&se=2021-08-01T17:58:53Z&spr=https&sv=2020-08-04&sr=b&sig=tpBo9rBlTz1V93VEzvAG7cvm60VK2wwS9ZY5QQUjzIs%3D)
 
 ## TCO 3 años y Precio Total por mes
 ### TCO 3 años y Precio Total por mes
 
 ## Tiempo sin disponibilidad a un año
-### Tiempo sin disponibilidad a un año
+### [Tiempo sin disponibilidad a un año](https://storageaccountpaisa977a.blob.core.windows.net/containersh/Indisponibilidad.png?sp=r&st=2021-08-01T09:57:40Z&se=2021-08-01T17:57:40Z&spr=https&sv=2020-08-04&sr=b&sig=uknEbPjuuX2JQTWqYAT5%2FHhraSObKOkmns2PHRdPQ%2Fk%3D)
 
 ## ¿Qué te pareció el evento?
 ### El evento ha sido una gran experiencia que nos ha permitido desarrollar multiples habilidades relacionadas al manejo de la nube con Microsoft Azure y, de igual manera, ha sido una plataforma para poder interactuar con personas dentro de diferentes ramas del saber que nos han nutrido con su basto conocimiento dentro de sus respectivas áreas.
