@@ -9,7 +9,7 @@
 ### Link al Tiktok
 
 ## Diagrama de Azure
-### Diagrama de Azure
+### [Diagrama de Azure](https://storageaccountpaisa977a.blob.core.windows.net/containersh/MicrosoftTeams-image%20(1).png?sp=r&st=2021-08-01T08:47:50Z&se=2021-08-01T16:47:50Z&spr=https&sv=2020-08-04&sr=b&sig=tNTsnLt4U1McnKjUK8S634hjv3IcAbGJuDEfye1TnxA%3D)
 
 ## SLA Compuesto
 ### SLA Compuesto
