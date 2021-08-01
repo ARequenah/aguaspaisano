@@ -22,4 +22,4 @@
 ### [Tiempo sin disponibilidad a un año](https://storageaccountpaisa977a.blob.core.windows.net/containersh/Indisponibilidad.png?sp=r&st=2021-08-01T09:57:40Z&se=2021-08-01T17:57:40Z&spr=https&sv=2020-08-04&sr=b&sig=uknEbPjuuX2JQTWqYAT5%2FHhraSObKOkmns2PHRdPQ%2Fk%3D)
 
 ## ¿Qué te pareció el evento?
-### El evento ha sido una gran experiencia que nos ha permitido desarrollar multiples habilidades relacionadas al manejo de la nube con Microsoft Azure y, de igual manera, ha sido una plataforma para poder interactuar con personas dentro de diferentes ramas del saber que nos han nutrido con su basto conocimiento dentro de sus respectivas áreas.
+### El evento ha sido una gran experiencia que nos ha permitido desarrollar multiples habilidades relacionadas al manejo de la nube con Microsoft Azure y, de igual manera, ha sido una plataforma para poder interactuar con personas dentro de diferentes ramas del saber que nos han nutrido con su basto conocimiento dentro de sus respectivas áreas. 10 de 10.
