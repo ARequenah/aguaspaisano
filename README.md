@@ -16,7 +16,7 @@
 
 ## TCO 3 años y Precio Total por mes
 ### [TCO 3 años](https://storageaccountpaisa977a.blob.core.windows.net/containersh/TCO%203.png?sp=r&st=2021-08-01T10:03:00Z&se=2021-08-01T18:03:00Z&spr=https&sv=2020-08-04&sr=b&sig=hBTzUJid1gwA%2FjdwVaUCLxMFrS86Ys%2BfMVDKiuCNyqI%3D)
-### [Precio Total por mes]
+### [Precio Total por mes](https://storageaccountpaisa977a.blob.core.windows.net/containersh/Precio%20Mensual.png?sp=r&st=2021-08-01T15:04:05Z&se=2021-08-01T23:04:05Z&spr=https&sv=2020-08-04&sr=b&sig=BKW3D%2F3Ksy6lRw%2BuS7%2FL2e93AnxTbYvQb6Gi4sWX1BE%3D)
 
 ## Tiempo sin disponibilidad a un año
 ### [Tiempo sin disponibilidad a un año](https://storageaccountpaisa977a.blob.core.windows.net/containersh/Indisponibilidad.png?sp=r&st=2021-08-01T09:57:40Z&se=2021-08-01T17:57:40Z&spr=https&sv=2020-08-04&sr=b&sig=uknEbPjuuX2JQTWqYAT5%2FHhraSObKOkmns2PHRdPQ%2Fk%3D)
