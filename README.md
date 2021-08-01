@@ -6,7 +6,7 @@
 ### Sitio web que aborda la inseguridad en el transporte público de la CDMX, específicamente de la delegación Iztapalapa, permitiendo a los usuarios dejar comentarios sobre las rutas más utilizadas e inseguras de esta área. A su vez, se comparte información para prevenir diversas situaciones y atracos, así como referentes a la actual situación sanitaria relacionado con el COVID-19.
 
 ## Link al Tiktok
-### Link al Tiktok
+### [Link de presentación en Tiktok](https://vm.tiktok.com/ZMdcTpf3S/)
 
 ## Diagrama de Azure
 ### [Diagrama de Azure](https://storageaccountpaisa977a.blob.core.windows.net/containersh/Diagrama%20de%20Azure.png?sp=r&st=2021-08-01T08:53:18Z&se=2021-08-01T16:53:18Z&spr=https&sv=2020-08-04&sr=b&sig=VoXtjie8JG0bflesNXpiyyT%2FIkw47jPZvip7n51Hqp0%3D)
